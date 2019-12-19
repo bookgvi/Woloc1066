@@ -1,0 +1,4702 @@
+{
+  "id": "",
+  "color": null,
+  "status": "",
+  "studio": {
+    "id": ""
+  },
+  "name": "",
+  "isRoom": 1,
+  "minHours": "",
+  "needPrepayment": 1,
+  "description": " ",
+  "height": "",
+  "yardage": "",
+  "payment": {
+    "photo": {
+      "maxSeats": "",
+      "seats": "",
+      "seatPrice": "",
+      "discountToday": "",
+      "discountTomorrow": "",
+      "prices": [
+        {
+          "time": "0:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "1:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "2:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "4:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "5:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "6:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "7:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "8:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "9:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "10:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "11:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "13:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "15:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "17:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "18:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "19:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "20:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "21:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "22:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "23:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        }
+      ],
+      "pricesForHour": [
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        }
+      ]
+    },
+    "video": {
+      "maxSeats": "",
+      "seats": "",
+      "seatPrice": "",
+      "discountToday": "",
+      "discountTomorrow": "",
+      "prices": [
+        {
+          "time": "0:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "1:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "2:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "4:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "5:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "6:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "7:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "8:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "9:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "10:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "11:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "13:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "15:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "17:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "18:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "19:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "20:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "21:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "22:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "23:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        }
+      ],
+      "pricesForHour": [
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        }
+      ]
+    },
+    "event": {
+      "maxSeats": "",
+      "seats": "",
+      "seatPrice": "",
+      "discountToday": "",
+      "discountTomorrow": "",
+      "prices": [
+        {
+          "time": "0:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "1:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "2:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "4:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "5:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "6:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "7:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "8:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "9:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "10:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "11:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "13:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "15:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "17:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "18:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "19:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "20:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "21:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "22:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "23:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        }
+      ],
+      "pricesForHour": [
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        }
+      ]
+    }
+  },
+  "interiors": [
+    {
+      "id": 1,
+      "name": "Кровать",
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "name": "Диван",
+      "isChecked": false
+    },
+    {
+      "id": 3,
+      "name": "Кресло",
+      "isChecked": false
+    },
+    {
+      "id": 4,
+      "name": "Торшер",
+      "isChecked": false
+    },
+    {
+      "id": 5,
+      "name": "Ванна",
+      "isChecked": false
+    },
+    {
+      "id": 6,
+      "name": "Стол",
+      "isChecked": false
+    },
+    {
+      "id": 7,
+      "name": "Журнальный столик",
+      "isChecked": false
+    },
+    {
+      "id": 8,
+      "name": "Сундук",
+      "isChecked": false
+    },
+    {
+      "id": 10,
+      "name": "Скамейка",
+      "isChecked": false
+    },
+    {
+      "id": 12,
+      "name": "Лестница",
+      "isChecked": false
+    },
+    {
+      "id": 13,
+      "name": "Барный стул",
+      "isChecked": false
+    },
+    {
+      "id": 14,
+      "name": "Подвесное кресло",
+      "isChecked": false
+    },
+    {
+      "id": 15,
+      "name": "Ширма",
+      "isChecked": false
+    },
+    {
+      "id": 16,
+      "name": "Гримерный стол",
+      "isChecked": false
+    },
+    {
+      "id": 17,
+      "name": "Куб",
+      "isChecked": false
+    },
+    {
+      "id": 18,
+      "name": "Книжный шкаф",
+      "isChecked": false
+    },
+    {
+      "id": 20,
+      "name": "Вешала (рейл) для одежды",
+      "isChecked": false
+    },
+    {
+      "id": 22,
+      "name": "Пианино\/рояль",
+      "isChecked": false
+    },
+    {
+      "id": 23,
+      "name": "Камин",
+      "isChecked": false
+    },
+    {
+      "id": 24,
+      "name": "Качели",
+      "isChecked": false
+    },
+    {
+      "id": 26,
+      "name": "Авто\/мотоциклы",
+      "isChecked": false
+    },
+    {
+      "id": 27,
+      "name": "Картины",
+      "isChecked": false
+    },
+    {
+      "id": 28,
+      "name": "Кофейный столик",
+      "isChecked": false
+    },
+    {
+      "id": 29,
+      "name": "Диско-шар",
+      "isChecked": false
+    },
+    {
+      "id": 30,
+      "name": "Манекен",
+      "isChecked": false
+    },
+    {
+      "id": 31,
+      "name": "Стремянка",
+      "isChecked": false
+    },
+    {
+      "id": 32,
+      "name": "Подиум",
+      "isChecked": false
+    },
+    {
+      "id": 33,
+      "name": "Комод",
+      "isChecked": false
+    },
+    {
+      "id": 35,
+      "name": "Зеркало",
+      "isChecked": false
+    },
+    {
+      "id": 36,
+      "name": "Балетный станок",
+      "isChecked": false
+    },
+    {
+      "id": 38,
+      "name": "Распашные двери",
+      "isChecked": false
+    },
+    {
+      "id": 39,
+      "name": "Мольберт",
+      "isChecked": false
+    },
+    {
+      "id": 40,
+      "name": "Велосипед",
+      "isChecked": false
+    },
+    {
+      "id": 42,
+      "name": "Пилон",
+      "isChecked": false
+    },
+    {
+      "id": 44,
+      "name": "Портьеры",
+      "isChecked": false
+    },
+    {
+      "id": 45,
+      "name": "Эпплбокс",
+      "isChecked": false
+    },
+    {
+      "id": 46,
+      "name": "Люстра",
+      "isChecked": false
+    },
+    {
+      "id": 47,
+      "name": "Ковёр",
+      "isChecked": false
+    },
+    {
+      "id": 48,
+      "name": "Бочка",
+      "isChecked": false
+    },
+    {
+      "id": 49,
+      "name": "Сено",
+      "isChecked": false
+    },
+    {
+      "id": 50,
+      "name": "Пуф",
+      "isChecked": false
+    },
+    {
+      "id": 51,
+      "name": "Трон",
+      "isChecked": false
+    },
+    {
+      "id": 52,
+      "name": "Колонна",
+      "isChecked": false
+    },
+    {
+      "id": 53,
+      "name": "Лодка",
+      "isChecked": false
+    },
+    {
+      "id": 54,
+      "name": "Спортивный инвентарь",
+      "isChecked": false
+    },
+    {
+      "id": 55,
+      "name": "Ретро лампы",
+      "isChecked": false
+    },
+    {
+      "id": 56,
+      "name": "Пледы",
+      "isChecked": false
+    },
+    {
+      "id": 57,
+      "name": "Шатер",
+      "isChecked": false
+    },
+    {
+      "id": 58,
+      "name": "Подушки",
+      "isChecked": false
+    },
+    {
+      "id": 59,
+      "name": "Посуда",
+      "isChecked": false
+    },
+    {
+      "id": 60,
+      "name": "Песок",
+      "isChecked": false
+    },
+    {
+      "id": 61,
+      "name": "Кухня",
+      "isChecked": false
+    },
+    {
+      "id": 62,
+      "name": "Стеллаж",
+      "isChecked": false
+    },
+    {
+      "id": 63,
+      "name": "Цветы",
+      "isChecked": false
+    },
+    {
+      "id": 64,
+      "name": "Занавески",
+      "isChecked": false
+    },
+    {
+      "id": 65,
+      "name": "Шторы",
+      "isChecked": false
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": 1,
+      "name": "Белая циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "name": "Цветные бумажные фоны",
+      "isChecked": false
+    },
+    {
+      "id": 3,
+      "name": "Фактурные стены",
+      "isChecked": false
+    },
+    {
+      "id": 4,
+      "name": "Тканевые фоны",
+      "isChecked": false
+    },
+    {
+      "id": 5,
+      "name": "Светящиеся панели",
+      "isChecked": false
+    },
+    {
+      "id": 6,
+      "name": "Лепнина",
+      "isChecked": false
+    },
+    {
+      "id": 7,
+      "name": "Монохромные бумажные фоны",
+      "isChecked": false
+    },
+    {
+      "id": 8,
+      "name": "Хромакей",
+      "isChecked": false
+    },
+    {
+      "id": 9,
+      "name": "Аквазона",
+      "isChecked": false
+    },
+    {
+      "id": 10,
+      "name": "Кирпичная стена",
+      "isChecked": false
+    },
+    {
+      "id": 11,
+      "name": "Серая циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 12,
+      "name": "Хромакей циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 13,
+      "name": "Деревянные панели",
+      "isChecked": false
+    },
+    {
+      "id": 14,
+      "name": "Черная циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 15,
+      "name": "Художественные холсты",
+      "isChecked": false
+    },
+    {
+      "id": 16,
+      "name": "Фотообои",
+      "isChecked": false
+    },
+    {
+      "id": 17,
+      "name": "Обои",
+      "isChecked": false
+    },
+    {
+      "id": 18,
+      "name": "Граффити",
+      "isChecked": false
+    }
+  ],
+  "extras": [
+    {
+      "id": 1,
+      "name": "Парковка",
+      "isChecked": false
+    },
+    {
+      "id": 3,
+      "name": "Стойка-журавль",
+      "isChecked": false
+    },
+    {
+      "id": 4,
+      "name": "Фон бумажный - черный",
+      "isChecked": false
+    },
+    {
+      "id": 5,
+      "name": "Фон бумажный - белый",
+      "isChecked": false
+    },
+    {
+      "id": 6,
+      "name": "Фон бумажный - серый",
+      "isChecked": false
+    },
+    {
+      "id": 7,
+      "name": "Фон бумажный - бежевый",
+      "isChecked": false
+    },
+    {
+      "id": 9,
+      "name": "Блекаут",
+      "isChecked": false
+    },
+    {
+      "id": 10,
+      "name": "Наполнение ванной",
+      "isChecked": false
+    },
+    {
+      "id": 11,
+      "name": "Дым-машина",
+      "isChecked": false
+    },
+    {
+      "id": 12,
+      "name": "Гримерная комната ",
+      "isChecked": false
+    },
+    {
+      "id": 13,
+      "name": "Мойка для головы",
+      "isChecked": false
+    },
+    {
+      "id": 15,
+      "name": "Визажист на съемку (мужской образ)",
+      "isChecked": false
+    },
+    {
+      "id": 16,
+      "name": "Визажист на съемку (детский образ)",
+      "isChecked": false
+    },
+    {
+      "id": 17,
+      "name": "Визажист на съемку (вечерний макияж)",
+      "isChecked": false
+    },
+    {
+      "id": 18,
+      "name": "Визажист на съемку (дневной макияж)",
+      "isChecked": false
+    },
+    {
+      "id": 19,
+      "name": "Циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 20,
+      "name": "Пилон",
+      "isChecked": false
+    },
+    {
+      "id": 21,
+      "name": "Цветной бумажный фон",
+      "isChecked": false
+    },
+    {
+      "id": 22,
+      "name": "Дым машина",
+      "isChecked": false
+    },
+    {
+      "id": 23,
+      "name": "Штатив",
+      "isChecked": false
+    },
+    {
+      "id": 25,
+      "name": "Генератор мыльных пузырей",
+      "isChecked": false
+    },
+    {
+      "id": 26,
+      "name": "Визажист на съемку (креативный образ)",
+      "isChecked": false
+    },
+    {
+      "id": 27,
+      "name": "Визажист на съемку (сопровождение на съемке)",
+      "isChecked": false
+    },
+    {
+      "id": 28,
+      "name": "Отпариватель",
+      "isChecked": false
+    },
+    {
+      "id": 29,
+      "name": "Проектор+экран",
+      "isChecked": false
+    },
+    {
+      "id": 30,
+      "name": "Микрофон",
+      "isChecked": false
+    },
+    {
+      "id": 31,
+      "name": "Аудиосистема",
+      "isChecked": false
+    },
+    {
+      "id": 32,
+      "name": "Кликер",
+      "isChecked": false
+    },
+    {
+      "id": 33,
+      "name": "Микроволновая печь",
+      "isChecked": false
+    },
+    {
+      "id": 34,
+      "name": "Холодильник",
+      "isChecked": false
+    },
+    {
+      "id": 35,
+      "name": "Плазма",
+      "isChecked": false
+    },
+    {
+      "id": 36,
+      "name": "Проектор",
+      "isChecked": false
+    },
+    {
+      "id": 39,
+      "name": "Уборка",
+      "isChecked": false
+    },
+    {
+      "id": 40,
+      "name": "Использование бумажного фона",
+      "isChecked": false
+    },
+    {
+      "id": 41,
+      "name": "Гримёрный стол",
+      "isChecked": false
+    },
+    {
+      "id": 42,
+      "name": "Услуги стилиста ",
+      "isChecked": false
+    },
+    {
+      "id": 43,
+      "name": "Обучение работе со светом, оборудованием",
+      "isChecked": false
+    },
+    {
+      "id": 44,
+      "name": "Услуги фотографа",
+      "isChecked": false
+    },
+    {
+      "id": 45,
+      "name": "Фотосессия 1 сердечко",
+      "isChecked": false
+    },
+    {
+      "id": 46,
+      "name": "Фотосессия 2 сердечка",
+      "isChecked": false
+    },
+    {
+      "id": 47,
+      "name": "Фотосессия 3 сердечка",
+      "isChecked": false
+    },
+    {
+      "id": 48,
+      "name": "Фотосессия 4 сердечка",
+      "isChecked": false
+    },
+    {
+      "id": 49,
+      "name": "Фотосессия 5 сердечек",
+      "isChecked": false
+    },
+    {
+      "id": 50,
+      "name": "Аренда платьев, пеньюаров и детской одежды",
+      "isChecked": false
+    },
+    {
+      "id": 51,
+      "name": "Флипчарт",
+      "isChecked": false
+    },
+    {
+      "id": 52,
+      "name": "Покраска циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 53,
+      "name": "Осветительные приборы",
+      "isChecked": false
+    },
+    {
+      "id": 54,
+      "name": "Ассистент ",
+      "isChecked": false
+    },
+    {
+      "id": 55,
+      "name": "Аренда комплекта постоянного профессионального света",
+      "isChecked": false
+    },
+    {
+      "id": 56,
+      "name": "Аренда радиомикрофона (2 петлички или 1 репортажный)",
+      "isChecked": false
+    },
+    {
+      "id": 57,
+      "name": "Аренда профессионального вдеоштатива Manfrotto",
+      "isChecked": false
+    },
+    {
+      "id": 59,
+      "name": "Аренда Canon 5d mark3 bodi",
+      "isChecked": false
+    },
+    {
+      "id": 60,
+      "name": "Аренда Canon 5d mark3 bodi более 3-х часов",
+      "isChecked": false
+    },
+    {
+      "id": 61,
+      "name": "Аренда дополгительного импульсного прибора Hensel Expert Pro 500",
+      "isChecked": false
+    },
+    {
+      "id": 62,
+      "name": "Аренда Canon 24-70 f2.8L USM",
+      "isChecked": false
+    },
+    {
+      "id": 63,
+      "name": "Аренда Canon 24-70 f2.8L USM более 3-х часов",
+      "isChecked": false
+    },
+    {
+      "id": 64,
+      "name": "Аренда Canon 70-200 f4L",
+      "isChecked": false
+    },
+    {
+      "id": 65,
+      "name": "Аренда Canon 70-200 f4L более 3-х часов",
+      "isChecked": false
+    },
+    {
+      "id": 66,
+      "name": "Роскошный большой ковёр 2,1*1,8 м",
+      "isChecked": false
+    },
+    {
+      "id": 67,
+      "name": "Аренда дыммашины Antari Z800X",
+      "isChecked": false
+    },
+    {
+      "id": 68,
+      "name": "Аренда проектора Vivitek D535",
+      "isChecked": false
+    },
+    {
+      "id": 69,
+      "name": "Аренда 1 прибора на 1806 LED BOLING BL-2280PB BICOLOR",
+      "isChecked": false
+    },
+    {
+      "id": 70,
+      "name": "Аренда 1 прибора на 1806 LED BOLING BL-2280PB BICOLOR более 3-х часов",
+      "isChecked": false
+    },
+    {
+      "id": 71,
+      "name": "Фон бумажный - желтый",
+      "isChecked": false
+    },
+    {
+      "id": 72,
+      "name": "Фон бумажный - розовый",
+      "isChecked": false
+    },
+    {
+      "id": 73,
+      "name": "Фон бумажный - зеленый",
+      "isChecked": false
+    },
+    {
+      "id": 74,
+      "name": "Фон бумажный - голубой",
+      "isChecked": false
+    },
+    {
+      "id": 75,
+      "name": "Детская игровая комната ожидания",
+      "isChecked": false
+    },
+    {
+      "id": 76,
+      "name": "Участие животного\/птицы",
+      "isChecked": false
+    },
+    {
+      "id": 77,
+      "name": "Грузовой лифт",
+      "isChecked": false
+    },
+    {
+      "id": 80,
+      "name": "Общая гримерка за 1 час до съемки",
+      "isChecked": false
+    },
+    {
+      "id": 81,
+      "name": "Гримерка",
+      "isChecked": false
+    },
+    {
+      "id": 85,
+      "name": "Проектор",
+      "isChecked": false
+    },
+    {
+      "id": 86,
+      "name": "Стулья",
+      "isChecked": false
+    },
+    {
+      "id": 87,
+      "name": "Флипчарт",
+      "isChecked": false
+    },
+    {
+      "id": 88,
+      "name": "Покраска циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 89,
+      "name": "Циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 91,
+      "name": "Зонт Broncolor Para 330 FB",
+      "isChecked": false
+    },
+    {
+      "id": 92,
+      "name": "Генератор Broncolor Scoro 3200",
+      "isChecked": false
+    },
+    {
+      "id": 93,
+      "name": "Кольцевая вспышка Broncolor Ringflash C 3200 Дж ",
+      "isChecked": false
+    },
+    {
+      "id": 95,
+      "name": "Отпариватель zauber pro-270",
+      "isChecked": false
+    },
+    {
+      "id": 96,
+      "name": "Колибровщик компьютера X-rite i1 Display Pro",
+      "isChecked": false
+    },
+    {
+      "id": 106,
+      "name": " Аренда фотогардероба и аксессуаров",
+      "isChecked": false
+    },
+    {
+      "id": 107,
+      "name": "Набор ванны водой",
+      "isChecked": false
+    },
+    {
+      "id": 109,
+      "name": "Подкрашивания воды",
+      "isChecked": false
+    },
+    {
+      "id": 110,
+      "name": "Набор ванны с использованием лепестков, цветов и т.д.",
+      "isChecked": false
+    },
+    {
+      "id": 111,
+      "name": "Набор ванной с использованием глиттера\/блесток ",
+      "isChecked": false
+    },
+    {
+      "id": 113,
+      "name": "Дым-машина",
+      "isChecked": false
+    },
+    {
+      "id": 114,
+      "name": "Вентилятор студийный SF-01",
+      "isChecked": false
+    },
+    {
+      "id": 115,
+      "name": "Гелевые цветные фильтры 30х30 см",
+      "isChecked": false
+    },
+    {
+      "id": 116,
+      "name": "Портретная тарелка Profoto Softlight Reflector white",
+      "isChecked": false
+    },
+    {
+      "id": 117,
+      "name": "Аренда винтовки или пистолета для фотосессии",
+      "isChecked": false
+    },
+    {
+      "id": 118,
+      "name": "Аренда одежды для фотосессии",
+      "isChecked": false
+    },
+    {
+      "id": 119,
+      "name": "Бумажные фоны",
+      "isChecked": false
+    },
+    {
+      "id": 120,
+      "name": "Дым машина Wfogger W508",
+      "isChecked": false
+    },
+    {
+      "id": 121,
+      "name": "Телевизор",
+      "isChecked": false
+    },
+    {
+      "id": 122,
+      "name": "Микрофон",
+      "isChecked": false
+    },
+    {
+      "id": 123,
+      "name": "Дым машина ",
+      "isChecked": false
+    },
+    {
+      "id": 124,
+      "name": "Покраска циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 125,
+      "name": "Покраска циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 126,
+      "name": "Проектор BenQ FullHD",
+      "isChecked": false
+    },
+    {
+      "id": 127,
+      "name": "Отпариватель",
+      "isChecked": false
+    },
+    {
+      "id": 128,
+      "name": "Дополнительный человек свыше 6",
+      "isChecked": false
+    },
+    {
+      "id": 129,
+      "name": "Въезд легкового автомобиля",
+      "isChecked": false
+    },
+    {
+      "id": 130,
+      "name": "Въезд грузового автомобиля",
+      "isChecked": false
+    },
+    {
+      "id": 131,
+      "name": "Животное в студии",
+      "isChecked": false
+    },
+    {
+      "id": 132,
+      "name": "Крупное животное в студии",
+      "isChecked": false
+    },
+    {
+      "id": 137,
+      "name": "Циклорама Pop-art",
+      "isChecked": false
+    },
+    {
+      "id": 138,
+      "name": "Парковка ",
+      "isChecked": false
+    },
+    {
+      "id": 139,
+      "name": "Общая гримерка",
+      "isChecked": false
+    },
+    {
+      "id": 140,
+      "name": "Генератор мыльных пузырей",
+      "isChecked": false
+    },
+    {
+      "id": 141,
+      "name": "Генератор дыма",
+      "isChecked": false
+    },
+    {
+      "id": 142,
+      "name": "Комплект профессиональной музыки",
+      "isChecked": false
+    },
+    {
+      "id": 143,
+      "name": "Аренда ростовой куклы на 1 час",
+      "isChecked": false
+    },
+    {
+      "id": 144,
+      "name": "Въезд машины на территорию",
+      "isChecked": false
+    },
+    {
+      "id": 145,
+      "name": "Гигант шар",
+      "isChecked": false
+    },
+    {
+      "id": 146,
+      "name": "Фотобокс 120х120х120",
+      "isChecked": false
+    },
+    {
+      "id": 147,
+      "name": "Столик для предметной фотосъёмки",
+      "isChecked": false
+    },
+    {
+      "id": 148,
+      "name": "Гримёрка полчаса бесплатно",
+      "isChecked": false
+    },
+    {
+      "id": 149,
+      "name": "Гримёрный столик",
+      "isChecked": false
+    },
+    {
+      "id": 150,
+      "name": "Пена для ванны ",
+      "isChecked": false
+    },
+    {
+      "id": 151,
+      "name": "Прокат платьев ",
+      "isChecked": false
+    },
+    {
+      "id": 152,
+      "name": "Циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 158,
+      "name": "Постоянный свет - Spacelight",
+      "isChecked": false
+    },
+    {
+      "id": 159,
+      "name": "Фотофон для предметной съёмки №1",
+      "isChecked": false
+    },
+    {
+      "id": 160,
+      "name": "Фотофон для предметной съёмки №2",
+      "isChecked": false
+    },
+    {
+      "id": 161,
+      "name": "Фотофон для предметной съёмки №3",
+      "isChecked": false
+    },
+    {
+      "id": 162,
+      "name": "Фотофон для предметной съёмки №4",
+      "isChecked": false
+    },
+    {
+      "id": 163,
+      "name": "Фотофон для предметной съёмки №5",
+      "isChecked": false
+    },
+    {
+      "id": 164,
+      "name": "Фотофон для предметной съёмки №6",
+      "isChecked": false
+    },
+    {
+      "id": 165,
+      "name": "Фотофон для предметной съёмки №7",
+      "isChecked": false
+    },
+    {
+      "id": 166,
+      "name": "Фотофон для предметной съёмки №8",
+      "isChecked": false
+    },
+    {
+      "id": 167,
+      "name": "Фотофон для предметной съёмки №9",
+      "isChecked": false
+    },
+    {
+      "id": 168,
+      "name": "Фотофон для предметной съёмки №10",
+      "isChecked": false
+    },
+    {
+      "id": 169,
+      "name": "Фотофон для предметной съёмки №11",
+      "isChecked": false
+    },
+    {
+      "id": 170,
+      "name": "Бумажный фон на стойках (белый)",
+      "isChecked": false
+    },
+    {
+      "id": 171,
+      "name": "Бумажный фон на стойках на отрез (белый)",
+      "isChecked": false
+    },
+    {
+      "id": 172,
+      "name": "Бумажный фон на стойках на отрез (серый)",
+      "isChecked": false
+    },
+    {
+      "id": 173,
+      "name": "Бумажный фон на стойках (серый)",
+      "isChecked": false
+    },
+    {
+      "id": 175,
+      "name": "Двухканальные петлички Saramonic",
+      "isChecked": false
+    },
+    {
+      "id": 176,
+      "name": "Sony a6300 + объектив Sony 18-105",
+      "isChecked": false
+    },
+    {
+      "id": 177,
+      "name": "Nikon D610 + объектив Nikon 24-120",
+      "isChecked": false
+    },
+    {
+      "id": 178,
+      "name": "Объектив Nikon 50mm f\/1.4G AF-S Nikkor",
+      "isChecked": false
+    },
+    {
+      "id": 180,
+      "name": "Барный стул",
+      "isChecked": false
+    },
+    {
+      "id": 181,
+      "name": "Барный стул",
+      "isChecked": false
+    },
+    {
+      "id": 182,
+      "name": "Стул из войлока",
+      "isChecked": false
+    },
+    {
+      "id": 183,
+      "name": "Кресло синее",
+      "isChecked": false
+    },
+    {
+      "id": 185,
+      "name": "Кресло желтое",
+      "isChecked": false
+    },
+    {
+      "id": 186,
+      "name": "Торшер тренога",
+      "isChecked": false
+    },
+    {
+      "id": 187,
+      "name": "Торшер XL",
+      "isChecked": false
+    },
+    {
+      "id": 188,
+      "name": "Радиола Rigonda",
+      "isChecked": false
+    },
+    {
+      "id": 189,
+      "name": "Ширма",
+      "isChecked": false
+    },
+    {
+      "id": 191,
+      "name": "Свечи и подсвечники",
+      "isChecked": false
+    },
+    {
+      "id": 192,
+      "name": "Гитара",
+      "isChecked": false
+    },
+    {
+      "id": 193,
+      "name": "Гримерная комната",
+      "isChecked": false
+    },
+    {
+      "id": 197,
+      "name": "Видеосвет Neewer 660 LED",
+      "isChecked": false
+    },
+    {
+      "id": 198,
+      "name": "Морской канат",
+      "isChecked": false
+    },
+    {
+      "id": 199,
+      "name": "Услуги визажиста",
+      "isChecked": false
+    },
+    {
+      "id": 200,
+      "name": "Отдельная гримерная",
+      "isChecked": false
+    },
+    {
+      "id": 201,
+      "name": "Штатив Zomei q666",
+      "isChecked": false
+    },
+    {
+      "id": 202,
+      "name": "Покраска циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 203,
+      "name": "Циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 204,
+      "name": "Арендный гардероб",
+      "isChecked": false
+    },
+    {
+      "id": 205,
+      "name": "Тканевые фоны",
+      "isChecked": false
+    },
+    {
+      "id": 206,
+      "name": "Ассистент на съемку",
+      "isChecked": false
+    },
+    {
+      "id": 207,
+      "name": "Циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 208,
+      "name": "Циклорама",
+      "isChecked": false
+    },
+    {
+      "id": 209,
+      "name": "Парковка",
+      "isChecked": false
+    },
+    {
+      "id": 210,
+      "name": "отпариватель",
+      "isChecked": false
+    },
+    {
+      "id": 211,
+      "name": "фон бумажный по полу (за метр)",
+      "isChecked": false
+    },
+    {
+      "id": 212,
+      "name": "Сова в аренду 30 мин.",
+      "isChecked": false
+    },
+    {
+      "id": 213,
+      "name": "Сова в аренду 1 час.",
+      "isChecked": false
+    },
+    {
+      "id": 214,
+      "name": "Штатив",
+      "isChecked": false
+    },
+    {
+      "id": 215,
+      "name": "Дополнительный синхронизатор",
+      "isChecked": false
+    },
+    {
+      "id": 216,
+      "name": "Съемка с домашним животным",
+      "isChecked": false
+    },
+    {
+      "id": 217,
+      "name": "Помощь животным частных и муниципальных приютов ",
+      "isChecked": false
+    },
+    {
+      "id": 219,
+      "name": "Тканевый фон ",
+      "isChecked": false
+    },
+    {
+      "id": 226,
+      "name": "Циклорама зала Loft ",
+      "isChecked": false
+    },
+    {
+      "id": 228,
+      "name": "Циклорама зала Gray",
+      "isChecked": false
+    },
+    {
+      "id": 229,
+      "name": "Гримёрка",
+      "isChecked": false
+    },
+    {
+      "id": 230,
+      "name": "Предметный стол",
+      "isChecked": false
+    },
+    {
+      "id": 231,
+      "name": "Источник импульсного света с шторками и съемными фильтрами",
+      "isChecked": false
+    },
+    {
+      "id": 232,
+      "name": "Штатив",
+      "isChecked": false
+    },
+    {
+      "id": 233,
+      "name": "Тканевый фон",
+      "isChecked": false
+    },
+    {
+      "id": 234,
+      "name": "Тканевый фон",
+      "isChecked": false
+    },
+    {
+      "id": 235,
+      "name": "Тканевый фон",
+      "isChecked": false
+    },
+    {
+      "id": 236,
+      "name": "Спортивный инвентарь",
+      "isChecked": false
+    },
+    {
+      "id": 237,
+      "name": "Свечи на подсвечнике",
+      "isChecked": false
+    },
+    {
+      "id": 238,
+      "name": "Штатив",
+      "isChecked": false
+    },
+    {
+      "id": 239,
+      "name": "Набор пирата с треуголкой",
+      "isChecked": false
+    },
+    {
+      "id": 240,
+      "name": "Набор пирата с банданой",
+      "isChecked": false
+    },
+    {
+      "id": 241,
+      "name": "Набор пирата с фуражкой",
+      "isChecked": false
+    },
+    {
+      "id": 243,
+      "name": "Аккумуляторные приборы",
+      "isChecked": false
+    },
+    {
+      "id": 245,
+      "name": "Свечи на подсвечнике тройные",
+      "isChecked": false
+    },
+    {
+      "id": 246,
+      "name": "3 Свечи на  подсвечнике",
+      "isChecked": false
+    },
+    {
+      "id": 247,
+      "name": "Мишка",
+      "isChecked": false
+    },
+    {
+      "id": 248,
+      "name": "Белые розы",
+      "isChecked": false
+    },
+    {
+      "id": 249,
+      "name": "Розовый букет",
+      "isChecked": false
+    },
+    {
+      "id": 251,
+      "name": "Аренда фотоаппарата NiKon D7000",
+      "isChecked": false
+    },
+    {
+      "id": 253,
+      "name": "столик для предметной сьемки",
+      "isChecked": false
+    },
+    {
+      "id": 254,
+      "name": " Отпариватель",
+      "isChecked": false
+    },
+    {
+      "id": 255,
+      "name": "Гримерная на ресепшн",
+      "isChecked": false
+    },
+    {
+      "id": 256,
+      "name": "Световой куб для предметной сьемки",
+      "isChecked": false
+    },
+    {
+      "id": 258,
+      "name": "ассистент по свету",
+      "isChecked": false
+    },
+    {
+      "id": 259,
+      "name": "фотограф",
+      "isChecked": false
+    },
+    {
+      "id": 260,
+      "name": "Гримёрка",
+      "isChecked": false
+    },
+    {
+      "id": 261,
+      "name": "Фотосессия: базовый пакет",
+      "isChecked": false
+    },
+    {
+      "id": 262,
+      "name": "Собакам вход разрешен",
+      "isChecked": false
+    },
+    {
+      "id": 263,
+      "name": "Прокат оборудования и реквизита",
+      "isChecked": false
+    },
+    {
+      "id": 264,
+      "name": "Карта постоянного клиента",
+      "isChecked": false
+    },
+    {
+      "id": 265,
+      "name": "Абонементы",
+      "isChecked": false
+    },
+    {
+      "id": 266,
+      "name": "Наполнение ванной",
+      "isChecked": false
+    },
+    {
+      "id": 267,
+      "name": "Гримерка",
+      "isChecked": false
+    },
+    {
+      "id": 268,
+      "name": "Отпариватель",
+      "isChecked": false
+    },
+    {
+      "id": 269,
+      "name": "Фон дождик",
+      "isChecked": false
+    },
+    {
+      "id": 270,
+      "name": "Фон розовый",
+      "isChecked": false
+    },
+    {
+      "id": 271,
+      "name": "Фон серый",
+      "isChecked": false
+    },
+    {
+      "id": 272,
+      "name": "фон голубой",
+      "isChecked": false
+    },
+    {
+      "id": 273,
+      "name": "фон синий",
+      "isChecked": false
+    },
+    {
+      "id": 274,
+      "name": "фон бежевый",
+      "isChecked": false
+    },
+    {
+      "id": 275,
+      "name": "Тренч бежевый",
+      "isChecked": false
+    },
+    {
+      "id": 277,
+      "name": "Бумажный фон",
+      "isChecked": false
+    },
+    {
+      "id": 278,
+      "name": "Гримерка за час до сьемки",
+      "isChecked": false
+    },
+    {
+      "id": 279,
+      "name": "Бижутерия",
+      "isChecked": false
+    },
+    {
+      "id": 280,
+      "name": "Покраска циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 281,
+      "name": "Бумажные фоны",
+      "isChecked": false
+    },
+    {
+      "id": 282,
+      "name": "Apriori Lab обучение фотографии",
+      "isChecked": false
+    },
+    {
+      "id": 284,
+      "name": "Аренда студийного вентилятора Falcon",
+      "isChecked": false
+    },
+    {
+      "id": 285,
+      "name": "Генератор дыма involaigth FM900",
+      "isChecked": false
+    },
+    {
+      "id": 286,
+      "name": "Проектор ",
+      "isChecked": false
+    },
+    {
+      "id": 289,
+      "name": "Предметный стол 60х130",
+      "isChecked": false
+    },
+    {
+      "id": 290,
+      "name": "Манекен мужской",
+      "isChecked": false
+    },
+    {
+      "id": 291,
+      "name": "Манекен женский",
+      "isChecked": false
+    },
+    {
+      "id": 292,
+      "name": "Видео свет",
+      "isChecked": false
+    },
+    {
+      "id": 293,
+      "name": "Видео свет",
+      "isChecked": false
+    },
+    {
+      "id": 294,
+      "name": "Вентилятор студийный sf-01",
+      "isChecked": false
+    },
+    {
+      "id": 295,
+      "name": "Проектор BenQ MX532",
+      "isChecked": false
+    },
+    {
+      "id": 296,
+      "name": "Комплект источников постоянного света YongNuo YN-1200 LED 5500K(2шт)",
+      "isChecked": false
+    },
+    {
+      "id": 297,
+      "name": "Аренда проектора NEC",
+      "isChecked": false
+    },
+    {
+      "id": 298,
+      "name": "Аренда всей гримерки (4 места)",
+      "isChecked": false
+    },
+    {
+      "id": 299,
+      "name": "Макияж _Прическа",
+      "isChecked": false
+    },
+    {
+      "id": 300,
+      "name": "видеосвет",
+      "isChecked": false
+    },
+    {
+      "id": 301,
+      "name": "Импульсный свет",
+      "isChecked": false
+    },
+    {
+      "id": 302,
+      "name": "Источники постоянного света",
+      "isChecked": false
+    },
+    {
+      "id": 303,
+      "name": "Кинопроектор ",
+      "isChecked": false
+    },
+    {
+      "id": 304,
+      "name": "Фотосессиия \"Мини\"",
+      "isChecked": false
+    },
+    {
+      "id": 305,
+      "name": "Фотосессиия \"Стандарт\" ",
+      "isChecked": false
+    },
+    {
+      "id": 306,
+      "name": "Отпариватель",
+      "isChecked": false
+    },
+    {
+      "id": 307,
+      "name": "Бумажный фон",
+      "isChecked": false
+    },
+    {
+      "id": 308,
+      "name": "Постоянный источник света \"Sachtler Topas 440\"",
+      "isChecked": false
+    },
+    {
+      "id": 309,
+      "name": "Проектор",
+      "isChecked": false
+    },
+    {
+      "id": 310,
+      "name": "Кофе",
+      "isChecked": false
+    },
+    {
+      "id": 311,
+      "name": "Печать",
+      "isChecked": false
+    },
+    {
+      "id": 312,
+      "name": "Обычный набор ванны",
+      "isChecked": false
+    },
+    {
+      "id": 313,
+      "name": "Набор ванны ",
+      "isChecked": false
+    },
+    {
+      "id": 314,
+      "name": "Аренда зонта PROFOTO UMBRELLA DEEP TRANSLUCENT XL 165CM ",
+      "isChecked": false
+    },
+    {
+      "id": 315,
+      "name": "Бумажный фон ",
+      "isChecked": false
+    },
+    {
+      "id": 316,
+      "name": "Покраска циклорамы ",
+      "isChecked": false
+    },
+    {
+      "id": 317,
+      "name": "Кролик ",
+      "isChecked": false
+    },
+    {
+      "id": 318,
+      "name": "Аренда платья",
+      "isChecked": false
+    },
+    {
+      "id": 319,
+      "name": "Гримерка",
+      "isChecked": false
+    },
+    {
+      "id": 320,
+      "name": "Застелить кровать",
+      "isChecked": false
+    },
+    {
+      "id": 321,
+      "name": "Профессиональный пакет оборудования",
+      "isChecked": false
+    },
+    {
+      "id": 322,
+      "name": "Белый бумажный фон (циклорама)",
+      "isChecked": false
+    },
+    {
+      "id": 324,
+      "name": "вентилятор",
+      "isChecked": false
+    },
+    {
+      "id": 328,
+      "name": "Радио микрофон петличка",
+      "isChecked": false
+    },
+    {
+      "id": 329,
+      "name": "Гримерка",
+      "isChecked": false
+    },
+    {
+      "id": 332,
+      "name": "Тканые фоны (среднесерый, белый, серый рябой, бежевый рябой)",
+      "isChecked": false
+    },
+    {
+      "id": 333,
+      "name": "Нетканый фон 136см",
+      "isChecked": false
+    },
+    {
+      "id": 336,
+      "name": "Деревянная лестница",
+      "isChecked": false
+    },
+    {
+      "id": 338,
+      "name": "Диско-шар",
+      "isChecked": false
+    },
+    {
+      "id": 339,
+      "name": "Вентилятор",
+      "isChecked": false
+    },
+    {
+      "id": 340,
+      "name": "Белый стол",
+      "isChecked": false
+    },
+    {
+      "id": 342,
+      "name": "Гримерное место",
+      "isChecked": false
+    },
+    {
+      "id": 343,
+      "name": "Фоны",
+      "isChecked": false
+    },
+    {
+      "id": 346,
+      "name": "Световое оборудование",
+      "isChecked": false
+    },
+    {
+      "id": 347,
+      "name": "Тканевый фон черный",
+      "isChecked": false
+    },
+    {
+      "id": 348,
+      "name": "Тканевый фон коричневый (художественный с разводами)",
+      "isChecked": false
+    },
+    {
+      "id": 349,
+      "name": "Тканевый фон зелёный (художественный с разводами)",
+      "isChecked": false
+    },
+    {
+      "id": 350,
+      "name": "Magic Studio Dress",
+      "isChecked": false
+    },
+    {
+      "id": 351,
+      "name": "Тканевый фон",
+      "isChecked": false
+    },
+    {
+      "id": 354,
+      "name": "Отпариватель",
+      "isChecked": false
+    },
+    {
+      "id": 355,
+      "name": "Услуги фотографа",
+      "isChecked": false
+    },
+    {
+      "id": 356,
+      "name": "Аренда кимоно",
+      "isChecked": false
+    },
+    {
+      "id": 357,
+      "name": "Аренда кимоно",
+      "isChecked": false
+    },
+    {
+      "id": 358,
+      "name": "Аренда кимоно",
+      "isChecked": false
+    },
+    {
+      "id": 359,
+      "name": "Аренда кимоно",
+      "isChecked": false
+    },
+    {
+      "id": 360,
+      "name": "Аренда кимоно",
+      "isChecked": false
+    },
+    {
+      "id": 361,
+      "name": "Аренда кимоно",
+      "isChecked": false
+    },
+    {
+      "id": 362,
+      "name": "Аренда кимоно",
+      "isChecked": false
+    },
+    {
+      "id": 363,
+      "name": "Аренда украшений",
+      "isChecked": false
+    },
+    {
+      "id": 365,
+      "name": "Одежда для тестов",
+      "isChecked": false
+    },
+    {
+      "id": 366,
+      "name": "Смена 1-го бумажного фона",
+      "isChecked": false
+    },
+    {
+      "id": 367,
+      "name": "Испорченный бумажный фон",
+      "isChecked": false
+    },
+    {
+      "id": 368,
+      "name": "Обновление циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 369,
+      "name": "Ассистент по свету",
+      "isChecked": false
+    },
+    {
+      "id": 370,
+      "name": "Фотограф",
+      "isChecked": false
+    },
+    {
+      "id": 371,
+      "name": " Бесплатный ознакомительный урок",
+      "isChecked": false
+    },
+    {
+      "id": 372,
+      "name": "Тканевый фон белый",
+      "isChecked": false
+    },
+    {
+      "id": 373,
+      "name": "Гримерка",
+      "isChecked": false
+    },
+    {
+      "id": 374,
+      "name": "Использование циклорамы в студии PINK",
+      "isChecked": false
+    },
+    {
+      "id": 375,
+      "name": "Использование циклорамы в студии BLACK",
+      "isChecked": false
+    },
+    {
+      "id": 377,
+      "name": "Визажист",
+      "isChecked": false
+    },
+    {
+      "id": 378,
+      "name": "Постоянный свет 2000W",
+      "isChecked": false
+    },
+    {
+      "id": 379,
+      "name": "Циклорама Classic",
+      "isChecked": false
+    },
+    {
+      "id": 380,
+      "name": "Постоянный свет 650W",
+      "isChecked": false
+    },
+    {
+      "id": 381,
+      "name": "услуги декоратора",
+      "isChecked": false
+    },
+    {
+      "id": 382,
+      "name": "Съемка детского модельного портфолио",
+      "isChecked": false
+    },
+    {
+      "id": 383,
+      "name": "Источник постоянного света ARRi 650",
+      "isChecked": false
+    },
+    {
+      "id": 384,
+      "name": "Гримерка",
+      "isChecked": false
+    },
+    {
+      "id": 385,
+      "name": "Парковка",
+      "isChecked": false
+    },
+    {
+      "id": 388,
+      "name": "Лайткуб",
+      "isChecked": false
+    },
+    {
+      "id": 390,
+      "name": "Предметный стол",
+      "isChecked": false
+    },
+    {
+      "id": 391,
+      "name": "Бумажный фон 136см",
+      "isChecked": false
+    },
+    {
+      "id": 392,
+      "name": "Бумажный фон 270см",
+      "isChecked": false
+    },
+    {
+      "id": 393,
+      "name": "Установка первого фона",
+      "isChecked": false
+    },
+    {
+      "id": 394,
+      "name": "Аренда отпаривателя",
+      "isChecked": false
+    },
+    {
+      "id": 395,
+      "name": "Покраска циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 396,
+      "name": "Гримёрка",
+      "isChecked": false
+    },
+    {
+      "id": 397,
+      "name": "Замена фона",
+      "isChecked": false
+    },
+    {
+      "id": 398,
+      "name": "Постоянный свет 1000W",
+      "isChecked": false
+    },
+    {
+      "id": 399,
+      "name": "Оформление воздушными шарами",
+      "isChecked": false
+    },
+    {
+      "id": 400,
+      "name": "Фрост рама",
+      "isChecked": false
+    },
+    {
+      "id": 401,
+      "name": "Тканевый фон 1",
+      "isChecked": false
+    },
+    {
+      "id": 402,
+      "name": "Тканевый фон 2",
+      "isChecked": false
+    },
+    {
+      "id": 403,
+      "name": "Тканевый фон 3",
+      "isChecked": false
+    },
+    {
+      "id": 404,
+      "name": "Тканевый фон 4",
+      "isChecked": false
+    },
+    {
+      "id": 405,
+      "name": "Тканевый фон 5",
+      "isChecked": false
+    },
+    {
+      "id": 406,
+      "name": "Тканевый фон 6",
+      "isChecked": false
+    },
+    {
+      "id": 407,
+      "name": "Комплект постоянного света",
+      "isChecked": false
+    },
+    {
+      "id": 408,
+      "name": "Аренда камер и оптики",
+      "isChecked": false
+    },
+    {
+      "id": 409,
+      "name": "Аренда слайдера",
+      "isChecked": false
+    },
+    {
+      "id": 410,
+      "name": "Аренда квадрокоптера",
+      "isChecked": false
+    },
+    {
+      "id": 411,
+      "name": "Радиопетли Sennheiser EW 100",
+      "isChecked": false
+    },
+    {
+      "id": 412,
+      "name": "Заезд авто в зал",
+      "isChecked": false
+    },
+    {
+      "id": 413,
+      "name": "Дым-машина MLB Z-600",
+      "isChecked": false
+    },
+    {
+      "id": 414,
+      "name": "Покраска циклорамы",
+      "isChecked": false
+    },
+    {
+      "id": 415,
+      "name": "Гримерка",
+      "isChecked": false
+    },
+    {
+      "id": 416,
+      "name": "Отпариватель",
+      "isChecked": false
+    },
+    {
+      "id": 417,
+      "name": "Гримерное место",
+      "isChecked": false
+    },
+    {
+      "id": 418,
+      "name": "Бумажные фоны",
+      "isChecked": false
+    },
+    {
+      "id": 419,
+      "name": "Тканевые фоны",
+      "isChecked": false
+    },
+    {
+      "id": 420,
+      "name": "Постоянный источник GreenBean Sunlight Pro",
+      "isChecked": false
+    },
+    {
+      "id": 421,
+      "name": "проверка 1",
+      "isChecked": false
+    },
+    {
+      "id": 422,
+      "name": "Образ для фотосессии или мероприятия",
+      "isChecked": false
+    },
+    {
+      "id": 423,
+      "name": "Макияж",
+      "isChecked": false
+    },
+    {
+      "id": 424,
+      "name": "Укладка",
+      "isChecked": false
+    },
+    {
+      "id": 425,
+      "name": "Сам себе визажист",
+      "isChecked": false
+    },
+    {
+      "id": 427,
+      "name": "Экспресс-фотосессия",
+      "isChecked": false
+    },
+    {
+      "id": 428,
+      "name": "Фотосессия 1 час",
+      "isChecked": false
+    },
+    {
+      "id": 429,
+      "name": "Фотосессия ALL INCLUSIVE",
+      "isChecked": false
+    },
+    {
+      "id": 430,
+      "name": "Фотосъемка для каталога",
+      "isChecked": false
+    }
+  ],
+  "characteristics": [
+    {
+      "id": 4,
+      "name": "Циклорама",
+      "description": "Неподвижная конструкция с плавным переходом между горизонтальными и вертикальными плоскостями, позволяющая создать однотонный фон без углов.",
+      "isChecked": false
+    },
+    {
+      "id": 5,
+      "name": "Дневной свет",
+      "description": "Наличие больших окон, делает возможным съемку с естественным освещением. Не забудьте уточнить расположение солнца на время вашей брони.",
+      "isChecked": false
+    },
+    {
+      "id": 7,
+      "name": "Съемка автомобилей",
+      "description": "Предусмотренна возможность въезда крупной техники непосредственно в помещение. Съемки с транспортными средствами требуют отдельного согласования.",
+      "isChecked": false
+    },
+    {
+      "id": 8,
+      "name": "Условия для семинаров",
+      "description": "Наличие большого количества сидячих мест, а так же презентационного оборудования.",
+      "isChecked": false
+    },
+    {
+      "id": 9,
+      "name": "Без проходной",
+      "description": "Для доступа в студию, нет необходимости иметь при себе документы удостоверяющие личность.",
+      "isChecked": false
+    },
+    {
+      "id": 10,
+      "name": "Трехфазная нагрузка",
+      "description": "Возможность подключения оборудования с напряжением 380v.",
+      "isChecked": false
+    },
+    {
+      "id": 11,
+      "name": "Проходная система",
+      "description": "Для доступа на территорию, всем участникам съемки, необходимо наличие при себе документа удостоверяющего личность.",
+      "isChecked": false
+    },
+    {
+      "id": 12,
+      "name": "Затемнение окон",
+      "description": "Окна можно закрыть и изолировать попадание солнечного света в помещение.",
+      "isChecked": false
+    },
+    {
+      "id": 13,
+      "name": "Подвесная система",
+      "description": "",
+      "isChecked": false
+    }
+  ]
+}
