@@ -192,6 +192,7 @@ export default {
       // this.reloadData++
     },
     async saveChanges () {
+      if (!this.currentRoomData || !this.currentRoomData.hasOwnProperty('name')) return
       if (this.isPost) {
         const result = await this.$app.room.addNew(this.currentRoomData)
         if (result && result.hasOwnProperty('errors') && result.errors.length) {
