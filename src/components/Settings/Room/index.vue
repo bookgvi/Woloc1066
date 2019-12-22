@@ -203,10 +203,10 @@ export default {
           return
         } else if (result.hasOwnProperty('data')) {
           this.showNotif('Зал создан!', 'green')
+          this.rooms = await this.getAllRooms(this.currentRoomData.studio.id) // Обновляем список залов для блока слева
+          const newRoom = this.rooms.filter(item => item.name === this.currentRoomData.name)[0]
+          this.setCurrentRoom(newRoom) // Выбираем новосозданный зал в списке
         }
-        this.rooms = await this.getAllRooms(this.currentRoomData.studio.id) // Обновляем список залов для блока слева
-        const newRoom = this.rooms.filter(item => item.name === this.currentRoomData.name)[0]
-        this.setCurrentRoom(newRoom) // Выбираем новосозданный зал в списке
       } else {
         const result = await this.$app.room.updateOne({ id: this.currentRoomData.id, data: this.currentRoomData })
         if (result && result.hasOwnProperty('errors') && result.errors.length) {
