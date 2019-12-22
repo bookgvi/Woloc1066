@@ -3,6 +3,7 @@ import { AbstractAPI } from './AbstractAPI'
 
 const API_URL = process.env.API_CABINET_URL
 export const bookings = new AbstractAPI(`${API_URL}/bookings`)
+
 bookings.addNewTechnical = async function (payload) {
   try {
     const r = await api.post(`${API_URL}/bookings/technical`, payload)

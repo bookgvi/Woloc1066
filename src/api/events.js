@@ -1,4 +1,3 @@
-// import api from './instance'
 import events from 'src/mocks/events'
 
 export default {

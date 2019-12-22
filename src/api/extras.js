@@ -3,6 +3,7 @@ import extrasMock from 'src/mocks/extras'
 import { AbstractAPI } from './AbstractAPI'
 const API_URL = process.env.API_CABINET_URL
 export const extras = new AbstractAPI(`${API_URL}/settings/extras`)
+
 extras.getMock = async function () {
   try {
     const r = {

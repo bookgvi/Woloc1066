@@ -1,4 +1,3 @@
-// import api from './instance'
 import promo from 'src/mocks/promo'
 
 export default {
