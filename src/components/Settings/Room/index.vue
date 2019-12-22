@@ -194,7 +194,7 @@ export default {
     async saveChanges () {
       if (this.isPost) {
         const result = await this.$app.room.addNew(this.currentRoomData)
-        if (result.hasOwnProperty('errors')) {
+        if (result && result.hasOwnProperty('errors') && result.errors.length) {
           this.showNotif('Ошибка создания зала. Проверьте обязательные поля')
           result.errors.forEach(item => {
             this.highLightRequired(item.source)
@@ -208,7 +208,7 @@ export default {
         this.setCurrentRoom(newRoom) // Выбираем новосозданный зал в списке
       } else {
         const result = await this.$app.room.updateOne({ id: this.currentRoomData.id, data: this.currentRoomData })
-        if (result.hasOwnProperty('errors')) {
+        if (result && result.hasOwnProperty('errors') && result.errors.length) {
           this.showNotif('Ошибка создания зала. Проверьте обязательные поля')
           result.errors.forEach(item => {
             this.highLightRequired(item.source)
